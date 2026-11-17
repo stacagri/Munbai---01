@@ -3,3 +3,4 @@
 0 18 * * * cd /home/ubuntu/auto_blogpost && /usr/bin/flock -n /home/ubuntu/auto_blogpost/guru.lock /home/ubuntu/auto_blogpost/venv/bin/python guruwaraya_bot.py --send-list >> /home/ubuntu/auto_blogpost/guru.log 2>&1
 0 20 * * * cd /home/ubuntu/auto_blogpost && /usr/bin/flock -n /home/ubuntu/auto_blogpost/auto_blogger.lock /home/ubuntu/auto_blogpost/venv/bin/python auto_blogger_tamil.py --send-list >> /home/ubuntu/auto_blogpost/bot.log 2>&1
 0 20 * * 6 cd /home/ubuntu/auto_blogpost && /usr/bin/flock -n /home/ubuntu/auto_blogpost/gazette_blogger.lock /home/ubuntu/auto_blogpost/venv/bin/python gazette_blogger.py >> /home/ubuntu/auto_blogpost/gazette.log 2>&1
+30 2 * * * /home/ubuntu/vm_backup/backup.sh >> /home/ubuntu/vm_backup/backup.log 2>&1

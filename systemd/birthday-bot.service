@@ -1,0 +1,14 @@
+[Unit]
+Description=Teachers Birthday Reminder Telegram Bot
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/birthday_bot
+ExecStart=/usr/bin/python3 /home/ubuntu/birthday_bot/birthday_bot.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,50 @@
+[3A 4 [K/0AU n6Hd _rl Tagu Cgd jbyy psSi 3rL cxo gK- lTM uhNb xoK 1ass ykAN 1Ahf DEk1 8TLO F ps9r [7A[J[3A ⣷  Signing in...[K
+[K
+  shift+up/down Navigate[K[2A ⣯  ⣟  ⡿  ⢿  ⣻  ⣽  ⣾  ⣷  ⣯  ⣟  ⡿  ⢿  ⣻  ⣽  ⣾  ⣷  ⣯  ⣟  ⡿  ⢿  ⣻  ⣽  ⣾  ⣷  ⣯  ⣟  ⡿  ⢿  ⣻  ⣽  ⣾  ⣷  ⣯  ⣟  ⡿ ]11;?[6A    ▄▀▀▄[K
+   ▀▀▀▀▀▀[K
+  ▀▀▀▀▀▀▀▀[K
+ ▄▀▀    ▀▀▄[K
+▄▀▀      ▀▀▄[K
+
+Welcome to Antigravity CLI!
+
+Choose your color scheme:        ╭─────────────────────────────────────────────────────────────╮
+[63D│ > you: add a greeting function                              │
+  > terminal                     │                                                             │
+[92Dlight                        │   Here's the change:                                        │
+[92Dsolarized light              │                                                             │
+[92Dcolorblind-friendly light    │   3     import "fmt"                                        │
+[92Ddark                         │   4                                                         │
+[92Dsolarized dark               │   5  -  func main() {                                       │
+[92Dcolorblind-friendly dark     │   5  +  func greet(name string) {                           │
+[92Dtokyo night                  │   6  +      fmt.Printf("Hello, %s!\n", name)                │
+[63D│   7     }                                                   │
+[63D│                                                             │
+[63D│   ▾ Thought Process                                         │
+[63D│     I need to add a greeting function. I'll use fmt.Printf. │
+[63D│   ⚙ tool: write_file main.go                                │
+[63D│   ◉ task: Implementing greeting                             │
+[63D│   ✗ error: compilation failed                               │
+[63D│   ⚠ warning: deprecation warning                            │
+[63D│   → link: file:///path/to/main.go                           │
+[63D│   ★ accent: highlighted text                                │
+[63D│   · dim: press Enter to continue                            │
+[63D╰─────────────────────────────────────────────────────────────╯
+
+[92D[Next]
+
+  ↑/↓ Navigate · enter Confirm
+[147CGemini 4 Argon · medium
+
+=== REMOTE CONTROL ===
+Enabled linger for ubuntu (daemon survives logout and starts at boot).
+Remote-control daemon started.
+Run `agy remote-control status` to get this machine's instance name, then open https://antigravity.google.com to find it.
+
+
+Daemon status: active
+Active since: Fri 2026-11-06 19:03:31 +0530
+Instance name: not assigned yet; the daemon generates one on its first start.
+
+Check logs with: journalctl --user -u antigravity-cli-daemon.service -n 50
+

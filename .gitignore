@@ -1,0 +1,26 @@
+# Logs, locks, and runtime files
+*.log
+*.lock
+*.fifo
+*.pyc
+__pycache__/
+venv/
+.venv/
+.gradle/
+build/
+temp_downloads/
+
+# Secrets and credentials
+.env
+.env.*
+cookies.txt
+cookies_netscape.txt
+client_secret*.json
+token.json
+auth_code.txt
+local.properties
+
+# Binaries and large artifacts
+*.apk
+cloudflared
+*.html

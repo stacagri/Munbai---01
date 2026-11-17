@@ -1,0 +1,28 @@
+[?2026$p[?2027$p]11;?]7501;?[?25l[?5W[?2004h[>4;2m[>5u[?u
+[J
+[5C▄▀▀▄
+[5D▀▀▀▀▀▀
+[7D▀▀▀▀▀▀▀▀
+  ▄▀▀    ▀▀▄
+ ▄▀▀      ▀▀▄
+
+ Welcome to the Antigravity CLI. You are currently not signed in.
+
+ Select login method:
+ > 1. Google OAuth
+   2. Use a Google Cloud project
+
+   ↑/↓ Navigate · enter Select
+[3A[JM ⣾  Signing in...[K
+[2A Open the URL below in your browser:[K
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=REDACTED_GOOGLE_CLIENT_ID&code_challenge=ol3FGrN-gnEa5-NDMADh6QjXEop3FzwGicyTgBIBhsU&code_challenge_method=S256&prompt=consent&redirect_uri=https%3A%2F%2Fantigravity.google%2Foauth-callback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinf
+ o.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fexperimentsandconfigs+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faicode+openid&state=NoJmUohcKgKEfl_fPahCww
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+ After authenticating, copy the code displayed in the browser and paste it below:
+
+ authorization code...
+
+
+  shift+up/down Navigate

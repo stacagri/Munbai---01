@@ -1,0 +1,100 @@
+import os
+from PIL import Image, ImageDraw, ImageFont
+
+TEMPLATE = "/home/ubuntu/auto_blogpost/thumb_clean_template.png"
+OUTPUT = "/home/ubuntu/auto_blogpost/test_ndt_thumb.png"
+
+im = Image.open(TEMPLATE).convert("RGB")
+draw = ImageDraw.Draw(im)
+
+font_bold = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+if not os.path.exists(font_bold):
+    font_bold = "DejaVuSans-Bold.ttf"
+
+# 1. Institution Name in Green Bar (Y: 160 to 304, height: 144)
+inst_name = "INSTITUTE OF TECHNOLOGY UNIVERSITY OF MORATUWA (ITUM)"
+inst_font_size = 60
+inst_font = ImageFont.truetype(font_bold, inst_font_size)
+
+while inst_font_size > 28:
+    bbox = draw.textbbox((0, 0), inst_name, font=inst_font)
+    if (bbox[2] - bbox[0]) <= 1500:
+        break
+    inst_font_size -= 2
+    inst_font = ImageFont.truetype(font_bold, inst_font_size)
+
+bbox = draw.textbbox((0, 0), inst_name, font=inst_font)
+iw = bbox[2] - bbox[0]
+ih = bbox[3] - bbox[1]
+ix = (1600 - iw) // 2
+iy = 160 + (144 - ih) // 2 - (bbox[1] // 2)
+draw.text((ix, iy), inst_name, fill=(255, 255, 255), font=inst_font)
+
+# 2. Course Name in Deep Royal Blue (RGB: 0, 38, 179)
+course_name = "National Diploma in Technology (NDT)"
+words = course_name.split()
+
+target_font_size = 80
+course_font = ImageFont.truetype(font_bold, target_font_size)
+
+lines = []
+curr_line = []
+for w in words:
+    test_line = " ".join(curr_line + [w])
+    bbox = draw.textbbox((0, 0), test_line, font=course_font)
+    if (bbox[2] - bbox[0]) <= 1450:
+        curr_line.append(w)
+    else:
+        if curr_line:
+            lines.append(" ".join(curr_line))
+            curr_line = [w]
+        else:
+            lines.append(w)
+            curr_line = []
+if curr_line:
+    lines.append(" ".join(curr_line))
+
+if len(lines) > 2:
+    target_font_size = 64
+    course_font = ImageFont.truetype(font_bold, target_font_size)
+    lines = []
+    curr_line = []
+    for w in words:
+        test_line = " ".join(curr_line + [w])
+        bbox = draw.textbbox((0, 0), test_line, font=course_font)
+        if (bbox[2] - bbox[0]) <= 1450:
+            curr_line.append(w)
+        else:
+            if curr_line:
+                lines.append(" ".join(curr_line))
+                curr_line = [w]
+            else:
+                lines.append(w)
+                curr_line = []
+    if curr_line:
+        lines.append(" ".join(curr_line))
+
+line_h = int(target_font_size * 1.3)
+total_h = len(lines) * line_h
+
+# Center within Y: 320 to 660 (available height = 340)
+start_y = 320 + (340 - total_h) // 2
+
+for i, line in enumerate(lines):
+    bbox = draw.textbbox((0, 0), line, font=course_font)
+    lw = bbox[2] - bbox[0]
+    lx = (1600 - lw) // 2
+    ly = start_y + (i * line_h)
+    draw.text((lx, ly), line, fill=(0, 38, 179), font=course_font)
+
+# 3. Year in Black (RGB: 0, 0, 0)
+year_str = "- 2026/2027 -"
+year_font = ImageFont.truetype(font_bold, 86)
+y_bbox = draw.textbbox((0, 0), year_str, font=year_font)
+yw = y_bbox[2] - y_bbox[0]
+yx = (1600 - yw) // 2
+yy = 690 + (100 - (y_bbox[3] - y_bbox[1])) // 2
+draw.text((yx, yy), year_str, fill=(0, 0, 0), font=year_font)
+
+im.save(OUTPUT, "PNG", quality=95)
+print("Saved test thumbnail to:", OUTPUT)

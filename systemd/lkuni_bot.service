@@ -1,0 +1,15 @@
+[Unit]
+Description=LKUni Interactive Telegram Bot & Course Listener
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/auto_blogpost
+ExecStart=/home/ubuntu/auto_blogpost/venv/bin/python /home/ubuntu/auto_blogpost/telegram_listener.py
+Restart=always
+RestartSec=5
+StandardOutput=append:/home/ubuntu/auto_blogpost/telegram_bot.log
+StandardError=append:/home/ubuntu/auto_blogpost/telegram_bot.log
+
+[Install]
+WantedBy=multi-user.target

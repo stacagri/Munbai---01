@@ -1,0 +1,14 @@
+[Unit]
+Description=Ratnapura RiverNet Telegram Monitor
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu
+ExecStart=/usr/bin/python3 -u /home/ubuntu/ratnapura_monitor.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

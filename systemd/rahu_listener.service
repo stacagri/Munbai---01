@@ -1,0 +1,13 @@
+[Unit]
+Description=Rahu Kalaya Multi-User Telegram Listener
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/rahu_bot
+ExecStart=/home/ubuntu/rahu_bot/venv/bin/python /home/ubuntu/rahu_bot/bot_listener.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

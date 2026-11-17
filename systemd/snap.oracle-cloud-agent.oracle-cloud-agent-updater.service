@@ -1,0 +1,19 @@
+[Unit]
+# Auto-generated, DO NOT EDIT
+Description=Service for snap application oracle-cloud-agent.oracle-cloud-agent-updater
+Requires=snap-oracle\x2dcloud\x2dagent-130.mount
+Wants=network.target
+After=snap-oracle\x2dcloud\x2dagent-130.mount network.target snapd.apparmor.service
+X-Snappy=yes
+
+[Service]
+EnvironmentFile=-/etc/environment
+ExecStart=/usr/bin/snap run oracle-cloud-agent.oracle-cloud-agent-updater
+SyslogIdentifier=oracle-cloud-agent.oracle-cloud-agent-updater
+Restart=on-failure
+WorkingDirectory=/var/snap/oracle-cloud-agent/130
+TimeoutStopSec=30s
+Type=simple
+
+[Install]
+WantedBy=multi-user.target

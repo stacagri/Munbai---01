@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/emergency_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="28dp">
+
+    <TextView
+        android:id="@+id/tvAlarmBell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🚨"
+        android:textSize="70sp" />
+
+    <TextView
+        android:id="@+id/tvAlarmTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="FLOOD ALERT!"
+        android:textColor="#FFFFFF"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="Kalu Ganga (Ratnapura) Level Exceeded!"
+        android:textColor="#FFCDD2"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvAlarmLevel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:text="5.39 m"
+        android:textColor="#FFFFFF"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvAlarmDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="Level is above alert threshold (5.20 m)"
+        android:textColor="#FFEBEE"
+        android:textSize="16sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnStopAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="#FFFFFF"
+        android:textColor="@color/emergency_bg"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="🛑 STOP ALARM / ACKNOWLEDGE"
+        app:cornerRadius="32dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSnoozeAlarm"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="12dp"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:text="Snooze for 15 Minutes"
+        app:strokeColor="#FFFFFF"
+        app:cornerRadius="26dp" />
+
+</LinearLayout>

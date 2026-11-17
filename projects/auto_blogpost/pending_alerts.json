@@ -341,5 +341,21 @@
     "created_at": "2026-11-17T20:38:07.158683",
     "telegram_message_id": 342,
     "telegram_chat_id": 1499235921
+  },
+  "gw_a60eb9a904": {
+    "id": "gw_a60eb9a904",
+    "source": "guruwaraya",
+    "title": "University of Colombo IBMBB Vacancies 2026 – Lecturer, Senior Lecturer & Laboratory Attendant",
+    "url": "https://www.guruwaraya.lk/2026/11/university-of-colombo-ibmbb-vacancies.html",
+    "institution": "University of Colombo",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-17",
+    "summary_points": [
+      "BSc Degree specializing in Biological Sciences or allied fields with First Class or Second Class Upper Division Honours.",
+      "BSc Degree specializing in Biological Sciences or allied fields with Second Class Lower Division Honours."
+    ],
+    "created_at": "2026-11-17T22:38:24.224819",
+    "telegram_message_id": 343,
+    "telegram_chat_id": 1499235921
   }
 }

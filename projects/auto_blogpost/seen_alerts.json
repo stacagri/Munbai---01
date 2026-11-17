@@ -468,5 +468,11 @@
     "alerted": true,
     "alert_id": "gw_32238a0445",
     "date": "2026-11-17T20:38:07.158683"
+  },
+  "https://www.guruwaraya.lk/2026/11/university-of-colombo-ibmbb-vacancies.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_a60eb9a904",
+    "date": "2026-11-17T22:38:24.224819"
   }
 }

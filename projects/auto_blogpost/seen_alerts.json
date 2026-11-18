@@ -474,5 +474,63 @@
     "alerted": true,
     "alert_id": "gw_a60eb9a904",
     "date": "2026-11-17T22:38:24.224819"
+  },
+  "https://tamilguru.lk/dip-in-early-childhood-development-pre-school-edu-2025-eusl/": {
+    "source": "tamilguru",
+    "alerted": true,
+    "alert_id": "tg_b8563f99de",
+    "date": "2026-11-18T09:39:50.527525"
+  },
+  "https://www.guruwaraya.lk/2026/11/slas-promotion-to-special-grade-2026.html": {
+    "source": "guruwaraya",
+    "filtered_out": true,
+    "date": "2026-11-18T12:40:14.639210"
+  },
+  "https://www.guruwaraya.lk/2026/11/master-of-education-degree-scholarships.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_b01e384c90",
+    "date": "2026-11-18T15:40:38.864021"
+  },
+  "https://www.guruwaraya.lk/2026/11/sri-lanka-accountants-service-slacs.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_294bdfbab5",
+    "date": "2026-11-18T15:40:38.864021"
+  },
+  "https://www.guruwaraya.lk/2026/11/admission-card-amendments-2026-online.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_2db56bd2c8",
+    "date": "2026-11-18T16:10:45.370561"
+  },
+  "https://www.guruwaraya.lk/2026/11/gce-ol-examination-2026-paper-marking.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_957339cfcf",
+    "date": "2026-11-18T16:40:49.703288"
+  },
+  "https://www.guruwaraya.lk/2026/11/hong-kong-phd-fellowship-scheme-20272028.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_d3e94878ee",
+    "date": "2026-11-18T19:11:12.915857"
+  },
+  "https://www.guruwaraya.lk/2026/11/admission-cards-released-buddhist.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_96d7d52eb2",
+    "date": "2026-11-18T21:11:29.384595"
+  },
+  "https://www.guruwaraya.lk/2026/11/university-of-peradeniya-non-academic.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_86566d6520",
+    "date": "2026-11-18T22:11:37.563273"
+  },
+  "https://www.guruwaraya.lk/2026/11/hostel-warden-female-vacancy-2026.html": {
+    "source": "guruwaraya",
+    "filtered_out": true,
+    "date": "2026-11-18T22:41:43.369581"
   }
 }

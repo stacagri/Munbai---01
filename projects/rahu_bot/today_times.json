@@ -1,28 +1,31 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "periods": [
     {
-      "start_24": "14:48",
-      "end_24": "16:16",
-      "start_12": "02:48 PM",
-      "end_12": "04:16 PM",
+      "start_24": "11:53",
+      "end_24": "13:21",
+      "start_12": "11:53 AM",
+      "end_12": "01:21 PM",
       "label": "Daytime (දිවා)"
     },
     {
-      "start_24": "02:32",
-      "end_24": "04:00",
-      "start_12": "02:32 AM",
-      "end_12": "04:00 AM",
+      "start_24": "23:37",
+      "end_24": "01:05",
+      "start_12": "11:37 PM",
+      "end_12": "01:05 AM",
       "label": "Nighttime (රාත්‍රී)"
     }
   ],
   "sent_alerts": [
-    "Daytime (දිවා)_before_5_14:43",
-    "Daytime (දිවා)_start_14:48",
-    "Daytime (දිවා)_after_5_14:53",
-    "Daytime (දිවා)_end_16:16",
-    "Nighttime (රාත්‍රී)_before_5_02:27"
+    "Daytime (දිවා)_before_5_11:48",
+    "Daytime (දිවා)_start_11:53",
+    "Daytime (දිවා)_after_5_11:58",
+    "Daytime (දිවා)_end_13:21",
+    "Nighttime (රාත්‍රී)_before_5_23:32",
+    "Nighttime (රාත්‍රී)_start_23:37",
+    "Nighttime (රාත්‍රී)_after_5_23:42",
+    "Nighttime (රාත්‍රී)_end_01:05"
   ],
-  "caption": "🌅 *Rahu Kalaya Update — 2026-11-17 (Tuesday)*\n\nසූර්ය උදාව (Sunrise Time) - 06:00 AM\nසූර්ය බැසීම (Sunset Time) - 05:49 PM\nදිවා රාහු කාලය (Day time Rahu Kalaya)\nප.ව. 02:48 (PM) - ප.ව. 04:16 (PM)\nරාත්‍රී රාහු කාලය (Night time Rahu Kalaya)\nපෙ.ව 02:32 (AM) - පෙ.ව 04:00 (AM)\nසුබ සහ අසුබ දිශාවන් | Auspicious & Inauspicious Directions\nසුබ දිශාවන් (Good Directions)\nගිණිකොන (South East), දකුණ (South)\nමරු සිටින දිශාව (Bad Direction)\nසුබ වර්ණය (Best Colour)\nරතු (Red)\n\n🔗 https://porondam.lk/rahu-kalaya/",
-  "file_id": "AgACAgUAAxkDAAIBHmr7oBY3-_aUoUC_SGvj-n4Wj1VPAAKhEmsbYnDhVw7lOZCrHE2PAQADAgADeQADPQQ"
+  "caption": "🌅 *Rahu Kalaya Update — 2026-11-18 (Wednesday)*\n\nසූර්ය උදාව (Sunrise Time) - 06:01 AM\nසූර්ය බැසීම (Sunset Time) - 05:50 PM\nදිවා රාහු කාලය (Day time Rahu Kalaya)\nපෙ.ව 11:53 (AM) - ප.ව. 01:21 (PM)\nරාත්‍රී රාහු කාලය (Night time Rahu Kalaya)\nප.ව. 11:37 (PM) - පෙ.ව 01:05 (AM)\nසුබ සහ අසුබ දිශාවන් | Auspicious & Inauspicious Directions\nසුබ දිශාවන් (Good Directions)\nනැගෙනහිර (East), ගිණිකොන (South East)\nමරු සිටින දිශාව (Bad Direction)\nසුබ වර්ණය (Best Colour)\nරතු (Red)\n\n🔗 https://porondam.lk/rahu-kalaya/",
+  "file_id": "AgACAgUAAxkDAAIBJ2r88ZQFBcPmaVK7ZWvXHKuGUTskAALyFGsbxCLoV21yvKXaSAtrAQADAgADeQADPQQ"
 }

@@ -484,5 +484,109 @@
     "created_at": "2026-11-18T22:11:37.563273",
     "telegram_message_id": 353,
     "telegram_chat_id": 1499235921
+  },
+  "gw_bbd2b36fb4": {
+    "id": "gw_bbd2b36fb4",
+    "source": "guruwaraya",
+    "title": "Graduate Teacher Recruitment 2026 – Online School Preference  Portal Open",
+    "url": "https://www.guruwaraya.lk/2026/11/graduate-teacher-recruitment-2026_0734954945.html",
+    "institution": "Ministry of Education – Teachers Service",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-19",
+    "summary_points": [],
+    "created_at": "2026-11-19T09:43:06.953205",
+    "telegram_message_id": 354,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_60da2025ea": {
+    "id": "gw_60da2025ea",
+    "source": "guruwaraya",
+    "title": "Graduate Teacher Recruitment 2026 – Online School Selection Guide",
+    "url": "https://www.guruwaraya.lk/2026/11/graduate-teacher-recruitment-2026_01251668793.html",
+    "institution": "Ministry of Education – Teachers Service",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-19",
+    "summary_points": [
+      "Online School Selection – Candidate Guide"
+    ],
+    "created_at": "2026-11-19T10:13:11.552171",
+    "telegram_message_id": 357,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_a4f7ead56b": {
+    "id": "gw_a4f7ead56b",
+    "source": "guruwaraya",
+    "title": "Exam Marks Released – Motor Vehicle Examiner & Sri Lanka Surveyors’ Service 2026",
+    "url": "https://www.guruwaraya.lk/2026/11/exam-marks-released-motor-vehicle.html",
+    "institution": "Department of Examinations, Sri Lanka",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-19",
+    "summary_points": [],
+    "created_at": "2026-11-19T11:13:19.378394",
+    "telegram_message_id": 358,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_1df31686d0": {
+    "id": "gw_1df31686d0",
+    "source": "guruwaraya",
+    "title": "Master of Science in Nursing Selection Test Results 2026 – OUSL",
+    "url": "https://www.guruwaraya.lk/2026/11/master-of-science-in-nursing-selection.html",
+    "institution": "The Open University of Sri Lanka (OUSL)",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-19",
+    "summary_points": [
+      "The Open University of Sri Lanka has released the Selection Test Results of the Master of Science in Nursing Degree Programme."
+    ],
+    "created_at": "2026-11-19T11:43:24.135382",
+    "telegram_message_id": 359,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_421be02193": {
+    "id": "gw_421be02193",
+    "source": "guruwaraya",
+    "title": "Graduate Teacher Recruitment 2026 – Interviews Postponed",
+    "url": "https://www.guruwaraya.lk/2026/11/graduate-teacher-recruitment-2026_0907058654.html",
+    "institution": "Ministry of Education – Teachers Service",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-19",
+    "summary_points": [
+      "This decision has been taken due to the one-day strike scheduled by government executive officers.",
+      "The online school preference selection system will remain accessible until 8.00 PM on the candidate's respective interview date."
+    ],
+    "created_at": "2026-11-19T16:44:05.332211",
+    "telegram_message_id": 360,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_5431c349e4": {
+    "id": "gw_5431c349e4",
+    "source": "guruwaraya",
+    "title": "School Stationery Allowance 2027 – Registration & Guidelines",
+    "url": "https://www.guruwaraya.lk/2026/11/school-stationery-allowance-2027.html",
+    "institution": "Ministry of Education, Sri Lanka",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-19",
+    "summary_points": [
+      "The Ministry of Education has issued guidelines related to the School Stationery Allowance Programme for 2027.",
+      "Registration guidelines for shops and user guidelines for beneficiaries, schools and administrators are available below."
+    ],
+    "created_at": "2026-11-19T22:44:57.599726",
+    "telegram_message_id": 363,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_b48108cb5a": {
+    "id": "gw_b48108cb5a",
+    "source": "guruwaraya",
+    "title": "University of Kelaniya External Degree Programmes 2026 – Online Applications",
+    "url": "https://www.guruwaraya.lk/2026/11/university-of-kelaniya-external-degree.html",
+    "institution": "University of Kelaniya",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-19",
+    "summary_points": [
+      "Application Opening Date: 01.12.2026",
+      "Passed the G.C.E. Advanced Level Examination in 2025 or earlier at one and the same attempt, within a maximum of three attempts, or obtained an equivalent qualification."
+    ],
+    "created_at": "2026-11-19T23:15:02.413392",
+    "telegram_message_id": 364,
+    "telegram_chat_id": 1499235921
   }
 }

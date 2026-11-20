@@ -579,5 +579,40 @@
     "alerted": true,
     "alert_id": "gw_b48108cb5a",
     "date": "2026-11-19T23:15:02.413392"
+  },
+  "https://www.guruwaraya.lk/2026/11/bachelor-of-laws-llb-honours-degree.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_a96b3aab8d",
+    "date": "2026-11-20T08:16:12.999609"
+  },
+  "https://www.guruwaraya.lk/2026/11/sltes-annual-transfers-2027-transfer.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_1612a1cc7d",
+    "date": "2026-11-20T10:46:34.161503"
+  },
+  "https://www.guruwaraya.lk/2026/11/national-school-teacher-transfer.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_1e34f43eb1",
+    "date": "2026-11-20T15:47:13.748661"
+  },
+  "https://www.guruwaraya.lk/2026/11/principal-deemed-to-have-vacated-post.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_fe4b1c6aa3",
+    "date": "2026-11-20T16:47:23.371236"
+  },
+  "https://www.guruwaraya.lk/2026/11/kuwait-undergraduate-scholarship.html": {
+    "source": "guruwaraya",
+    "alerted": true,
+    "alert_id": "gw_df056cc5b0",
+    "date": "2026-11-20T23:18:14.271351"
+  },
+  "https://www.guruwaraya.lk/2026/11/office-employees-service-grade-iii.html": {
+    "source": "guruwaraya",
+    "filtered_out": true,
+    "date": "2026-11-20T23:48:19.195708"
   }
 }

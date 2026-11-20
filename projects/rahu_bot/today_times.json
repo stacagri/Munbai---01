@@ -1,30 +1,31 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "periods": [
     {
-      "start_24": "13:21",
-      "end_24": "14:49",
-      "start_12": "01:21 PM",
-      "end_12": "02:49 PM",
+      "start_24": "10:25",
+      "end_24": "11:53",
+      "start_12": "10:25 AM",
+      "end_12": "11:53 AM",
       "label": "Daytime (දිවා)"
     },
     {
-      "start_24": "01:05",
-      "end_24": "02:33",
-      "start_12": "01:05 AM",
-      "end_12": "02:33 AM",
+      "start_24": "22:09",
+      "end_24": "23:37",
+      "start_12": "10:09 PM",
+      "end_12": "11:37 PM",
       "label": "Nighttime (රාත්‍රී)"
     }
   ],
   "sent_alerts": [
-    "Daytime (දිවා)_before_5_13:16",
-    "Daytime (දිවා)_start_13:21",
-    "Daytime (දිවා)_after_5_13:26",
-    "Daytime (දිවා)_end_14:49",
-    "Nighttime (රාත්‍රී)_before_5_01:00",
-    "Nighttime (රාත්‍රී)_start_01:05",
-    "Nighttime (රාත්‍රී)_after_5_01:10"
+    "Daytime (දිවා)_before_5_10:20",
+    "Daytime (දිවා)_start_10:25",
+    "Daytime (දිවා)_after_5_10:30",
+    "Daytime (දිවා)_end_11:53",
+    "Nighttime (රාත්‍රී)_before_5_22:04",
+    "Nighttime (රාත්‍රී)_start_22:09",
+    "Nighttime (රාත්‍රී)_after_5_22:14",
+    "Nighttime (රාත්‍රී)_end_23:37"
   ],
-  "caption": "🌅 *Rahu Kalaya Update — 2026-11-19 (Thursday)*\n\nසූර්ය උදාව (Sunrise Time) - 06:01 AM\nසූර්ය බැසීම (Sunset Time) - 05:50 PM\nදිවා රාහු කාලය (Day time Rahu Kalaya)\nප.ව. 01:21 (PM) - ප.ව. 02:49 (PM)\nරාත්‍රී රාහු කාලය (Night time Rahu Kalaya)\nපෙ.ව 01:05 (AM) - පෙ.ව 02:33 (AM)\nසුබ සහ අසුබ දිශාවන් | Auspicious & Inauspicious Directions\nසුබ දිශාවන් (Good Directions)\nගිණිකොන (South East), වයඹ (North West)\nමරු සිටින දිශාව (Bad Direction)\nනිරිත (South West)\nසුබ වර්ණය (Best Colour)\nකොළ (Green)\n\n🔗 https://porondam.lk/rahu-kalaya/",
-  "file_id": "AgACAgUAAxkDAAIBMGr-QxLe9eKvCXCelkz71F0QUM9EAAKfF2sbZH7xV_qWvSes1OoaAQADAgADeQADPQQ"
+  "caption": "🌅 *Rahu Kalaya Update — 2026-11-20 (Friday)*\n\nසූර්ය උදාව (Sunrise Time) - 06:01 AM\nසූර්ය බැසීම (Sunset Time) - 05:50 PM\nදිවා රාහු කාලය (Day time Rahu Kalaya)\nපෙ.ව 10:25 (AM) - පෙ.ව 11:53 (AM)\nරාත්‍රී රාහු කාලය (Night time Rahu Kalaya)\nප.ව. 10:09 (PM) - ප.ව. 11:37 (PM)\nසුබ සහ අසුබ දිශාවන් | Auspicious & Inauspicious Directions\nසුබ දිශාවන් (Good Directions)\nනැගෙනහිර (East), ඊශාන (North East)\nමරු සිටින දිශාව (Bad Direction)\nදකුණ (South)\nසුබ වර්ණය (Best Colour)\nකහ (Yellow)\n\n🔗 https://porondam.lk/rahu-kalaya/",
+  "file_id": "AgACAgUAAxkDAAIBOWr_lJFHsYtBxn01hRNZAyvYq0dZAAIwImsbZH4BVPWtaerOP_hJAQADAgADeQADPQQ"
 }

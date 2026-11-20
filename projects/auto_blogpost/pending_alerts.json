@@ -588,5 +588,82 @@
     "created_at": "2026-11-19T23:15:02.413392",
     "telegram_message_id": 364,
     "telegram_chat_id": 1499235921
+  },
+  "gw_a96b3aab8d": {
+    "id": "gw_a96b3aab8d",
+    "source": "guruwaraya",
+    "title": "Bachelor of Laws (LLB) Honours Degree 2026/2027 – Open University of Sri Lanka",
+    "url": "https://www.guruwaraya.lk/2026/11/bachelor-of-laws-llb-honours-degree.html",
+    "institution": "The Open University of Sri Lanka (OUSL)",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-20",
+    "summary_points": [
+      "The Open University of Sri Lanka offers the Bachelor of Laws (LLB) Honours Degree Programme for the academic year 2026/2027.",
+      "Faculty: Humanities and Social Sciences"
+    ],
+    "created_at": "2026-11-20T08:16:12.999609",
+    "telegram_message_id": 365,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_1612a1cc7d": {
+    "id": "gw_1612a1cc7d",
+    "source": "guruwaraya",
+    "title": "SLTES Annual Transfers 2027 – Transfer List and Appeal Application",
+    "url": "https://www.guruwaraya.lk/2026/11/sltes-annual-transfers-2027-transfer.html",
+    "institution": "Ministry of Education, Sri Lanka",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-20",
+    "summary_points": [
+      "Appeal applications should be submitted using the prescribed application form.",
+      "A scanned copy of the appeal application should also be sent via email."
+    ],
+    "created_at": "2026-11-20T10:46:34.161503",
+    "telegram_message_id": 366,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_1e34f43eb1": {
+    "id": "gw_1e34f43eb1",
+    "source": "guruwaraya",
+    "title": "National School Teacher Transfer Decisions 2026 – Primary Teachers",
+    "url": "https://www.guruwaraya.lk/2026/11/national-school-teacher-transfer.html",
+    "institution": "Ministry of Education, Sri Lanka",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-20",
+    "summary_points": [
+      "The Ministry of Education has released the National School Teacher Transfer Decisions for Primary Teachers.",
+      "Teachers can access their transfer decisions through the official National School Teacher Transfer portal."
+    ],
+    "created_at": "2026-11-20T15:47:13.748661",
+    "telegram_message_id": 367,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_fe4b1c6aa3": {
+    "id": "gw_fe4b1c6aa3",
+    "source": "guruwaraya",
+    "title": "Principal Deemed to Have Vacated Post After China Trip Without Approved Leave",
+    "url": "https://www.guruwaraya.lk/2026/11/principal-deemed-to-have-vacated-post.html",
+    "institution": "Ministry of Education – Principals Service",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-20",
+    "summary_points": [],
+    "created_at": "2026-11-20T16:47:23.371236",
+    "telegram_message_id": 368,
+    "telegram_chat_id": 1499235921
+  },
+  "gw_df056cc5b0": {
+    "id": "gw_df056cc5b0",
+    "source": "guruwaraya",
+    "title": "Kuwait Undergraduate Scholarship 2026/2027 for Sri Lankan Students",
+    "url": "https://www.guruwaraya.lk/2026/11/kuwait-undergraduate-scholarship.html",
+    "institution": "Department of Education, Sri Lanka",
+    "closing_date": "Not specified",
+    "published_date": "2026-11-20",
+    "summary_points": [
+      "Scholarships available: 01 · Medium of instruction: English",
+      "Applicants who have successfully completed a recognised English proficiency test such as IELTS, TOEFL iBT or TOEFL PBT ."
+    ],
+    "created_at": "2026-11-20T23:18:14.271351",
+    "telegram_message_id": 376,
+    "telegram_chat_id": 1499235921
   }
 }
